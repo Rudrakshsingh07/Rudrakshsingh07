@@ -1,5 +1,71 @@
 # 💫 About Me:
-👋 About Me<br>I am a Computer Engineering diploma student exploring multiple domains including programming, Unix systems, UI/UX design, and product-focused application development. I prefer working across related disciplines simultaneously, allowing me to switch context when blocked and return with clearer perspective.<br><br>My primary interest lies in designing usable interfaces, building user-facing products, and solving real end-user problems, with a growing curiosity toward systems-level understanding.<br><br>## 🧭 Areas of Interest<br>- Programming & logic development<br>- Unix/Linux systems and customization (ricing)<br>- Application and product development<br>- UI/UX design as a supporting engineering skill<br>- Machine learning and applied AI systems<br>- Photo and video editing as creative outlets<br><br>## 🚧 Currently Exploring<br>- Linux customization and configuration-based workflows<br>- Building and deploying ML/LLM-based systems<br>- CLI-first tooling and utilities<br>- Improving interface usability and structure in apps<br><br>## 🎓 Education<br>Diploma in Computer Engineering  <br>Tolani Foundation Polytechnic, Gandhidham<br><br>Key exposure includes:<br>- Machine Learning & Artificial Intelligence<br>- Internet of Things (IoT)<br>- Cloud Computing fundamentals<br>- Introductory software development<br>- Java-based application development<br><br>## 🛠 Technical Skills<br><br>### Programming Languages (by comfort level)<br>Python > Java > PHP > C++ > C<br><br>### Development & Systems<br>- Data structures (introductory implementations)<br>- CLI tools and small utilities<br>- Linux configuration and customization<br>- Basic system-level scripting<br><br>### AI / ML<br>- Regression models<br>- Dataset preparation for transfer learning<br>- Fine-tuning and deploying domain-specific LLMs<br><br>### Design & Media (Supporting Skills)<br>- UI/UX fundamentals (usability-first approach)<br>- Figma, Canva<br>- Photo and video editing workflows<br><br>## 🧩 Projects<br><br>### 🌱 Agriculture Domain LLM<br>Fine-tuned and deployed a web-based LLM for agriculture-related queries.<br>- Focus: domain adaptation, deployment<br>- Work involved: dataset collection, transfer learning, web integration<br><br>### 📈 Regression Prediction System<br>Built a basic regression-based prediction model and a mobile application interface for it.<br>- Focus: ML fundamentals and user-facing application<br><br>### ♟ Chess Game<br>Developed a functional chess game.<br>- Focus: logic building and game rules implementation<br><br>### 🗄 Database System with Relations<br>Designed a relational database with automations.<br>- Focus: data modeling and structured design<br><br>## 🧠 Learning & Work Style<br>- Learning approach: reverse engineering, trial-and-error, documentation, AI-assisted exploration<br>- Preferred tools: CLI over GUI for clarity, maintainability, and simplicity<br>- Work style: exploratory and experimental<br>- Collaboration: prefer team environments for diverse perspectives and problem coverage<br><br>## 🎯 Goals<br>- Pursue higher studies in computer engineering or related fields<br>- Secure internships focused on development or applied AI<br>- Gradually explore freelancing alongside academic growth<br>- Strengthen fundamentals while building practical systems<br><br>## ⏱ Availability<br>- Average learning/building time: ~10 hours per week (minimum)<br>
+👋 About Me<br>I am a Computer Engineering diploma student exploring multiple domains including programming, Unix systems, UI/UX design, and product-focused application development. I prefer working across related disciplines simultaneously, allowing me to switch context when blocked and return with clearer perspective.<br><br>My primary interest lies in designing usable interfaces, building user-facing products, and solving real end-user problems, with a growing curiosity toward systems-level understanding.<br><br>
+## 🧭 Areas of Interest
+- Programming & logic development
+- Unix/Linux systems and customization (ricing)<br>- Application and product development
+- UI/UX design as a supporting engineering skill
+- Machine learning and applied AI systems
+- Photo and video editing as creative outlets<br><br>## 🚧 Currently Exploring
+- Linux customization and configuration-based workflows
+- Building and deploying ML/LLM-based systems
+- CLI-first tooling and utilities<br>- Improving interface usability and structure in apps
+## 🎓 Education
+Diploma in Computer Engineering 
+Tolani Foundation Polytechnic, Gandhidham
+Key exposure includes:- Machine Learning & Artificial Intelligence
+- Internet of Things (IoT)
+- Cloud Computing fundamentals
+- Introductory software development
+- Java-based application development
+ 
+## 🛠 Technical Skills
+### Programming Languages (by comfort level)<br>Python > Java > PHP > C++ > C
+### Development & Systems
+- Data structures (introductory implementations)
+- CLI tools and small utilities
+- Linux configuration and customization
+- Basic system-level scripting
+
+ ### AI / ML
+ - Regression models
+ - Dataset preparation for transfer learning
+ - Fine-tuning and deploying domain-specific LLMs
+ 
+ ### Design & Media (Supporting Skills)<br>- UI/UX fundamentals (usability-first approach)
+ 
+ Figma, Canva
+ - Photo and video editing workflows
+ 
+ ## 🧩 Projects
+ ### 🌱 Agriculture Domain LLM
+ Fine-tuned and deployed a web-based LLM for agriculture-related queries.
+ - Focus: domain adaptation, deployment
+ - Work involved: dataset collection, transfer learning, web integration
+ 
+ ### 📈 Regression Prediction System
+ Built a basic regression-based prediction model and a mobile application interface for it.
+ - Focus: ML fundamentals and user-facing application
+ 
+ ### ♟ Chess Game
+ Developed a functional chess game.
+ - Focus: logic building and game rules implementation
+ ### 🗄 Database System with Relations
+ Designed a relational database with automations.
+ - Focus: data modeling and structured design
+ ## 🧠 Learning & Work Style
+ - Learning approach: reverse engineering, trial-and-error, documentation, AI-assisted exploration
+ - Preferred tools: CLI over GUI for clarity, maintainability, and simplicity
+ - Work style: exploratory and experimental
+ - Collaboration: prefer team environments for diverse perspectives and problem coverage
+  
+ ## 🎯 Goals
+ - Pursue higher studies in computer engineering or related fields
+ - Secure internships focused on development or applied AI
+ - Gradually explore freelancing alongside academic growth
+ - Strengthen fundamentals while building practical systems
+ 
+ ## ⏱ Availability
+ - Average learning/building time: ~10 hours per week (minimum)
 
 
 ## 🌐 Socials:
