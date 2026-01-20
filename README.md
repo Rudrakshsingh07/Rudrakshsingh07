@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>I am a Computer Engineering diploma student exploring multiple domains including programming, Unix systems, UI/UX design, and product-focused application development. I prefer working across related disciplines simultaneously, allowing me to switch context when blocked and return with clearer perspective.<br><br>My primary interest lies in designing usable interfaces, building user-facing products, and solving real end-user problems, with a growing curiosity toward systems-level understanding.<br><br>
+👋 About Me<br>I am a Computer Engineering diploma student exploring multiple domains including programming, Unix systems, UI/UX design, and product-focused application development. I prefer working across related disciplines simultaneously, allowing me to switch context when blocked and return with clearer perspective.<br><br>My primary interest lies in designing usable interfaces, building user-facing products, and solving real end-user problems, with a growing curiosity toward systems-level understanding.
 ## 🧭 Areas of Interest
 - Programming & logic development
 - Unix/Linux systems and customization (ricing)<br>- Application and product development
